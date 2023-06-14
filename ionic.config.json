@@ -1,0 +1,7 @@
+{
+  "name": "traffic-sign-scanner",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
